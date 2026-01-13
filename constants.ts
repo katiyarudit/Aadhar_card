@@ -17,7 +17,9 @@ export const ALL_STATES = [
   'DELHI', 'PUDUCHERRY', 'LADAKH'
 ];
 
-export const INDIA_GEOJSON_URL = 'https://raw.githubusercontent.com/datameet/maps/master/States/India-States.json';
+export const INDIA_GEOJSON_URL =
+  'https://raw.githubusercontent.com/india-in-data/india-states-2019/master/india_states.geojson';
+
 
 export const RED_ZONE_PERCENTILE = 0.95;
 
